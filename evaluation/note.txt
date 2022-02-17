@@ -1,1 +1,0 @@
-only parameters in parameters.py need to be changed for each task, each method.
