@@ -1,5 +1,5 @@
 # GAN-based-Surgical-Tool-Segmentation
-This is the Pytorch implimentation of the paper:
+This is the Pytorch implementation of the paper(I am still working on modifying the code):
 
 @article{zhang2021surgical,
   title={Surgical Tool Segmentation using Generative Adversarial Networks with Unpaired Training Data},
